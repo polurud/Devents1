@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751344749224",
+    "firebase_url": "https://devents-37c02.firebaseio.com",
+    "project_id": "devents-37c02",
+    "storage_bucket": "devents-37c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751344749224:android:5a83b67e0cf1c42b",
+        "android_client_info": {
+          "package_name": "com.dartmouth.kd.devents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751344749224-filvfi1qfmgn3rf9aclepfns1u0jggqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dartmouth.kd.devents",
+            "certificate_hash": "44fd8e6b43ee059f6c20bda81fb10b6a84215e2b"
+          }
+        },
+        {
+          "client_id": "751344749224-i4pt8onbkue3m5tpq6jpbvo8mscqi41f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbmIaoB3OhMI1ByZJjZMyFlTsRu75wm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751344749224-i4pt8onbkue3m5tpq6jpbvo8mscqi41f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
